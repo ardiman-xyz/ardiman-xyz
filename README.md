@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seorang pengembang software <br>🛠 Tech Stack<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express, PHP<br>Database: MySQL, MongoDB<br>Tools: Git, VS Code, Docker<br>Mobile: React Native
+HI, Ardiman here! <br>🛠 Tech Stack<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express, PHP<br>Database: MySQL, MongoDB<br>Tools: Git, VS Code, Docker<br>Mobile: React Native
 
 
 ## 🌐 Socials:
