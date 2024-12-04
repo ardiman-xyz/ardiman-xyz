@@ -1,6 +1,5 @@
 # 💫 About Me:
-HI, Ardiman here! <br>🛠 Tech Stack<br><br>Frontend: HTML, CSS, JavaScript, React<br>Backend: Node.js, Express, PHP<br>Database: MySQL, MongoDB<br>Tools: Git, VS Code, Docker<br>Mobile: React Native
-
+Hi there, I'am Ardiman.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ard1_xyz) 
