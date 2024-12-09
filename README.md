@@ -1,6 +1,7 @@
-
-#Howdy 👋🏻, I'm Ardiman<br> ##The only way to do a great work, is to love what you do
-
+<div align="center">
+  <h1>Howdy 👋🏻, I'm Ardiman</h1>
+  <h2>The only way to do a great work, is to love what you do</h2>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ard1_xyz) 
