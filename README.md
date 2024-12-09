@@ -1,19 +1,20 @@
 <div align="center">
   <h1>Howdy 👋🏻, I'm Ardiman</h1>
-  <h2>The only way to do a great work, is to love what you do</h2>
+  <h3>The only way to do a great work, is to love what you do</h3>
+  <p>💬 Ask me about web development, mobile apps, and tech stack.</p>
 </div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ard1_xyz) 
+![Profile Views](https://visitcount.itsvg.in/api?id=ardiman-xyz&label=Profile%20views&color=0&icon=5&pretty=true)
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ardiman-xyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ardiman-xyz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardiman-xyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Connect with me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ard1_xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 
----
-[![](https://visitcount.itsvg.in/api?id=ardiman-xyz&icon=0&color=0)](https://visitcount.itsvg.in)
+## 💻 Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ardiman-xyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ardiman-xyz&theme=dark&hide_border=false)
